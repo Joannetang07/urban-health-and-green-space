@@ -2,6 +2,12 @@
 
 *Abstract: In this urban data analysis study, I explore the relationship between the availability of parks and recreational areas, the accessibility of seasonal flu vaccination centers, and public health in New York City. The study aims to understand how these factors interact across different income levels and neighborhoods, particularly focusing on their impact on influenza-like illnesses. I hypothesize that increased accessibility to green spaces and vaccination centers correlates with improved health outcomes.*
 
+## Language Used
+Python
+
+## Libraries Used
+Pandas, Numpy, GeoPandas, Matplotlib, Scipy, Sklearn, and Seaborn
+
 ## Introduction
 Urban green spaces are increasingly recognized for their health benefits, particularly in densely populated cities like New York City. This study examines the correlation between the availability and accessibility of parks and seasonal flu vaccination centers, and their combined effect on public health. This research aim to provide a comprehensive overview of how these factors vary across different socioeconomic backgrounds and their impact on the prevalence of influenza-like illnesses.
 
